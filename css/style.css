@@ -19,7 +19,6 @@ html {
 
 .logo {
     display: flex;
-    flex-direction: wrap;
     flex-wrap: wrap;
     width: 250px;
     padding: 20px;
